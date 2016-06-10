@@ -1,0 +1,3 @@
+set PALockMode to 1
+set PALockDelay to 3
+set PALockDist to 8

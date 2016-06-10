@@ -1,0 +1,1 @@
+zip dcc-palock-v%~1.zip -r PALock*.txt dcc-palock.esp scripts
